@@ -1,1 +1,2 @@
 # Day-of-the-Programmer
+This code solves the Day of the Programmer problem by calculating the 256th day of the year in Russia, accounting for calendar transitions and leap year rules. The code handles three cases: the special transition year 1918 with 13 missing days, Julian calendar leap years before 1918, and Gregorian calendar leap years after 1918, returning the appropriate date for the 256th day.
